@@ -1,4 +1,4 @@
-#Filtra valores de uma lista
+# Filtra valores de uma lista
 
 Uma lista armazena um conjunto de números inteiros. Escreva uma função que copie apenas os valores maiores que certo limiar, armazenando-os em uma outra lista.A função a ser implementada possui esta declaração:
 
