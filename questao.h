@@ -8,5 +8,13 @@
 // declare aqui sua função
 // não esqueça dos include !
 
+#include <list>
+#include <string>
+#include "questao.h"
+
+using namespace std;
+
+void filtra(list<int> & nova, list<int> & lval, int limiar);
+
 
 #endif //PROG_QUESTAO_H
